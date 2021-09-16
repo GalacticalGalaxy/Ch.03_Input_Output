@@ -9,10 +9,12 @@ In: 32  Out: 0
 In: 212  Out: 100
 In: 52  Out: 11.1
 In: 25  Out: -3.9
-In: -40  Out: ??? Please tell me what this output is!
+In: -40  Out: -40
 
 '''
 
+Temp = int(input("What temp would you like to convert to Celsius? "))
+print((Temp-32) * 5/9, "degrees Celsius")
 
 
 

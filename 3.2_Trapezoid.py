@@ -10,3 +10,8 @@ base 1: 5       base 2: 7    height: 2    area: 12
 base 1: 1       base 2: 2    height: 3    area: 4.5
 base 1: 7       base 2: 2    height: 4    area: 18
 '''
+
+base1 = int(input("What do you want base 1 to be? "))
+base2 = int(input("What do you want base 2 to be? "))
+height = int(input("What do you want the height to be? "))
+print("Area =", (base1 + base2)/2 * height)
