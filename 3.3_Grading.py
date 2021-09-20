@@ -13,8 +13,8 @@ Sem Grade: 95   Final Exam: 32   Exam worth: 10%    Overall: 88.7
 Sem Grade: 72   Final Exam: 100   Exam worth: 20%    Overall: 77.6
 '''
 
-Semgrade= int(input("What was your Semgrade? "))
-Finalexam = int(input("What was your Final Exam grade? "))
-Semgrade = int(input("What was your Exam Worth? "))
-
+# Semgrade= int(input("What was your Semgrade? "))
+# Finalexam = int(input("What was your Final Exam grade? "))
+# Semgradeworth = int(input("What was your Exam Worth? "))
+# print((Semgrade*(100-Semgradeworth)+Finalexam*Semgradeworth)/100)
 
